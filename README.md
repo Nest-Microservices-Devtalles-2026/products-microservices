@@ -10,4 +10,4 @@
 2. Instalar las dependencias `npm install`
 3. Crear archivos `.env` basado en el `.env.template`
 4. Ejecutar migracion de prisma `npx prisma migrate dev`
-5. Ejecutar `npm run start`
+5. Ejecutar `npm run start:dev`
